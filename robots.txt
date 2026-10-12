@@ -14,4 +14,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://mundosaber.onrender.com/sitemap.xml
+Sitemap: https://mundosaber-gepc.onrender.com/sitemap.xml
