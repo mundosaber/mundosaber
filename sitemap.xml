@@ -2,175 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mundosaber.onrender.com/</loc>
+    <loc>https://mundosaber-gepc.onrender.com/</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq><priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq><priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/educacion/</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/educacao/"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/educacion/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/educacao/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/fe/</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/fe/"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/fe/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/fe/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/noticias-virales/</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/noticias-virais/"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/noticias-virales/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/noticias-virais/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/curiosidades/</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/curiosidades/"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/curiosidades/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/curiosidades/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/educacao/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/educacion/"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/educacao/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/educacion/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/fe/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/fe/"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/fe/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/fe/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/noticias-virais/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/noticias-virales/"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/noticias-virais/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/noticias-virales/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/curiosidades/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/curiosidades/"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/curiosidades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/curiosidades/"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/educacion/como-aprender-rapido.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/educacao/como-aprender-rapido.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/educacion/como-aprender-rapido.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/educacao/como-aprender-rapido.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/educacao/como-aprender-rapido.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/educacion/como-aprender-rapido.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/educacao/como-aprender-rapido.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/educacion/como-aprender-rapido.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/privacidad.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/privacidade.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/privacidad.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/privacidade.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/terminos.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/termos.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/terminos.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/termos.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/privacidade.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/privacidad.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/privacidade.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/privacidad.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/termos.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/terminos.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/termos.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/terminos.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/fe/la-fuerza-interior.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/fe/a-forca-interior.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/fe/la-fuerza-interior.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/fe/la-fuerza-interior.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/fe/a-forca-interior.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/fe/la-fuerza-interior.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/fe/a-forca-interior.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/fe/la-fuerza-interior.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/fe/a-forca-interior.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/fe/a-forca-interior.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/fe/la-fuerza-interior.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/fe/a-forca-interior.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/curiosidades/dados-fascinantes-corpo-humano.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/curiosidades/dados-fascinantes-corpo-humano.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/curiosidades/dados-fascinantes-corpo-humano.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/curiosidades/dados-fascinantes-corpo-humano.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/curiosidades/dados-fascinantes-corpo-humano.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/curiosidades/dados-fascinantes-corpo-humano.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/noticias-virais/como-detectar-noticias-falsas.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/noticias-virais/como-detectar-noticias-falsas.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/noticias-virais/como-detectar-noticias-falsas.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/noticias-virais/como-detectar-noticias-falsas.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/noticias-virais/como-detectar-noticias-falsas.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/noticias-virais/como-detectar-noticias-falsas.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/nosotros.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/sobre.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/nosotros.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/nosotros.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/sobre.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/nosotros.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/sobre.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/nosotros.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/sobre.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/sobre.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/sobre.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/es/contacto.html</loc>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/contato.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/contacto.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/es/contacto.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/contato.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/contacto.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mundosaber.onrender.com/pt/contato.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/contacto.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/contato.html"/>
+    <loc>https://mundosaber-gepc.onrender.com/pt/contato.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber-gepc.onrender.com/es/contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber-gepc.onrender.com/pt/contato.html"/>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq><priority>0.6</priority>
   </url>
