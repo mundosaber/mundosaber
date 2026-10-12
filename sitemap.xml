@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mundosaber.onrender.com/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq><priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq><priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/educacion/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/educacao/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/fe/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/fe/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/noticias-virales/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/noticias-virais/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/curiosidades/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/curiosidades/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/educacao/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/educacion/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/fe/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/fe/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/noticias-virais/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/noticias-virales/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/curiosidades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/curiosidades/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/educacion/como-aprender-rapido.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/educacao/como-aprender-rapido.html"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq><priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/educacao/como-aprender-rapido.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/educacion/como-aprender-rapido.html"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq><priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/privacidad.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/privacidade.html"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq><priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/es/terminos.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://mundosaber.onrender.com/pt/termos.html"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq><priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/privacidade.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/privacidad.html"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq><priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mundosaber.onrender.com/pt/termos.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mundosaber.onrender.com/es/terminos.html"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq><priority>0.3</priority>
+  </url>
+</urlset>

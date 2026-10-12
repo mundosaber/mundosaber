@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MundoSaber em Português</title>
+    <link>https://mundosaber.onrender.com/pt/</link>
+    <description>Educação, fé, notícias virais verificadas e curiosidades fascinantes em português.</description>
+    <language>pt-BR</language>
+    <atom:link href="https://mundosaber.onrender.com/pt/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Como aprender mais rápido: 7 técnicas cientificamente comprovadas</title>
+      <link>https://mundosaber.onrender.com/pt/educacao/como-aprender-rapido.html</link>
+      <description>A ciência da aprendizagem identificou quais métodos realmente funcionam. Descubra as 7 estratégias que vão transformar sua forma de estudar.</description>
+      <category>Educação</category>
+      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/pt/educacao/como-aprender-rapido.html</guid>
+    </item>
+    <item>
+      <title>Os 10 hábitos de estudo que separam os melhores alunos dos demais</title>
+      <link>https://mundosaber.onrender.com/pt/educacao/</link>
+      <description>Não é inteligência, é método. Estes hábitos comprovados fazem a diferença entre passar e se destacar.</description>
+      <category>Educação</category>
+      <pubDate>Sun, 12 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/pt/educacao/habitos-estudo.html</guid>
+    </item>
+    <item>
+      <title>Histórias de fé que mudaram vidas: 5 testemunhos que vão te inspirar</title>
+      <link>https://mundosaber.onrender.com/pt/fe/</link>
+      <description>Pessoas comuns que encontraram esperança nos momentos mais sombrios. Suas histórias vão te lembrar o poder de acreditar.</description>
+      <category>Fé</category>
+      <pubDate>Sat, 11 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/pt/fe/historias-fe.html</guid>
+    </item>
+    <item>
+      <title>15 fatos curiosos sobre o cérebro humano que não te ensinaram na escola</title>
+      <link>https://mundosaber.onrender.com/pt/curiosidades/</link>
+      <description>Seu cérebro gera mais impulsos elétricos por dia do que todos os telefones do mundo juntos. E isso é só o começo.</description>
+      <category>Curiosidades</category>
+      <pubDate>Fri, 10 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/pt/curiosidades/fatos-cerebro.html</guid>
+    </item>
+    <item>
+      <title>A descoberta científica da semana que está dando a volta ao mundo</title>
+      <link>https://mundosaber.onrender.com/pt/noticias-virais/</link>
+      <description>Pesquisadores acabaram de confirmar algo que muda o que sabíamos. Explicamos sem termos técnicos.</description>
+      <category>Notícias Virais</category>
+      <pubDate>Thu, 09 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/pt/noticias-virais/descoberta-semana.html</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+# llms.txt — MundoSaber
+# AI crawler friendly site description
+
+> MundoSaber es un sitio web bilingüe (español y portugués) de contenido original:
+> educación, fe, noticias virales verificadas y curiosidades.
+> MundoSaber é um site bilíngue (espanhol e português) de conteúdo original:
+> educação, fé, notícias virais verificadas e curiosidades.
+
+## Idiomas / Idiomas
+- Español: https://mundosaber.onrender.com/es/
+- Português: https://mundosaber.onrender.com/pt/
+
+## Categorías / Categorias
+### Español
+- Educación: https://mundosaber.onrender.com/es/educacion/
+- Fe: https://mundosaber.onrender.com/es/fe/
+- Noticias Virales: https://mundosaber.onrender.com/es/noticias-virales/
+- Curiosidades: https://mundosaber.onrender.com/es/curiosidades/
+
+### Português
+- Educação: https://mundosaber.onrender.com/pt/educacao/
+- Fé: https://mundosaber.onrender.com/pt/fe/
+- Notícias Virais: https://mundosaber.onrender.com/pt/noticias-virais/
+- Curiosidades: https://mundosaber.onrender.com/pt/curiosidades/
+
+## Licencia de uso para IA
+Todo el contenido de MundoSaber es original. Los resúmenes con atribución están
+permitidos. La reproducción completa de artículos requiere autorización.
+Todo o conteúdo do MundoSaber é original. Resumos com atribuição são permitidos.
+A reprodução integral de artigos requer autorização.
+
+## Contacto / Contato
+- Email: dirvesmart4201999@gmail.com
+- RSS (ES): https://mundosaber.onrender.com/es/feed.xml
+- RSS (PT): https://mundosaber.onrender.com/pt/feed.xml
+- Sitemap: https://mundosaber.onrender.com/sitemap.xml
