@@ -5,46 +5,43 @@
     <link>https://mundosaber.onrender.com/es/</link>
     <description>Educación, fe, noticias virales verificadas y curiosidades fascinantes en español.</description>
     <language>es</language>
+    <image>
+      <url>https://mundosaber-gepc.onrender.com/assets/images/mundosaber-logo.webp</url>
+      <title>MundoSaber en Español</title>
+      <link>https://mundosaber.onrender.com/es/</link>
+    </image>
     <atom:link href="https://mundosaber.onrender.com/es/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cómo aprender más rápido: 7 técnicas científicamente probadas</title>
       <link>https://mundosaber.onrender.com/es/educacion/como-aprender-rapido.html</link>
       <description>La ciencia del aprendizaje ha identificado qué métodos funcionan de verdad. Descubre las 7 estrategias que transformarán tu forma de estudiar.</description>
       <category>Educación</category>
-      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
       <guid>https://mundosaber.onrender.com/es/educacion/como-aprender-rapido.html</guid>
     </item>
     <item>
-      <title>Los 10 hábitos de estudio que separan a los mejores estudiantes del resto</title>
-      <link>https://mundosaber.onrender.com/es/educacion/</link>
-      <description>No es inteligencia, es método. Estos hábitos comprobados marcan la diferencia entre aprobar y destacar.</description>
-      <category>Educación</category>
-      <pubDate>Sun, 12 Oct 2026 08:00:00 +0000</pubDate>
-      <guid>https://mundosaber.onrender.com/es/educacion/habitos-estudio.html</guid>
-    </item>
-    <item>
-      <title>Historias de fe que cambiaron vidas: 5 testimonios que te inspirarán</title>
-      <link>https://mundosaber.onrender.com/es/fe/</link>
-      <description>Personas comunes que encontraron esperanza en los momentos más oscuros. Sus historias te recordarán el poder de creer.</description>
+      <title>La fuerza interior: cómo la fe sostiene en los momentos más difíciles</title>
+      <link>https://mundosaber.onrender.com/es/fe/la-fuerza-interior.html</link>
+      <description>Cuando todo parece derrumbarse, hay una fuerza silenciosa que sostiene a millones de personas. Esto es lo que la fe hace por el corazón humano.</description>
       <category>Fe</category>
-      <pubDate>Sat, 11 Oct 2026 08:00:00 +0000</pubDate>
-      <guid>https://mundosaber.onrender.com/es/fe/historias-fe.html</guid>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/es/fe/la-fuerza-interior.html</guid>
     </item>
     <item>
-      <title>15 datos curiosos sobre el cerebro humano que no te enseñaron en la escuela</title>
-      <link>https://mundosaber.onrender.com/es/curiosidades/</link>
-      <description>Tu cerebro genera más impulsos eléctricos al día que todos los teléfonos del mundo juntos. Y eso es solo el principio.</description>
-      <category>Curiosidades</category>
-      <pubDate>Fri, 10 Oct 2026 08:00:00 +0000</pubDate>
-      <guid>https://mundosaber.onrender.com/es/curiosidades/datos-cerebro.html</guid>
-    </item>
-    <item>
-      <title>El descubrimiento científico de la semana que está dando la vuelta al mundo</title>
-      <link>https://mundosaber.onrender.com/es/noticias-virales/</link>
-      <description>Investigadores acaban de confirmar algo que cambia lo que sabíamos. Te lo explicamos sin tecnicismos.</description>
+      <title>Cómo detectar noticias falsas en 60 segundos: guía práctica</title>
+      <link>https://mundosaber.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html</link>
+      <description>Las noticias falsas viajan más rápido que la verdad. Aprende el método de 5 pasos que usan los verificadores profesionales.</description>
       <category>Noticias Virales</category>
-      <pubDate>Thu, 09 Oct 2026 08:00:00 +0000</pubDate>
-      <guid>https://mundosaber.onrender.com/es/noticias-virales/descubrimiento-semana.html</guid>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/es/noticias-virales/como-detectar-noticias-falsas.html</guid>
+    </item>
+    <item>
+      <title>15 datos fascinantes del cuerpo humano que la ciencia apenas está descubriendo</title>
+      <link>https://mundosaber.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html</link>
+      <description>Tu cuerpo es la máquina más compleja del universo conocido. Estos descubrimientos recientes te dejarán sin palabras.</description>
+      <category>Curiosidades</category>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+      <guid>https://mundosaber.onrender.com/es/curiosidades/datos-fascinantes-cuerpo-humano.html</guid>
     </item>
   </channel>
 </rss>
