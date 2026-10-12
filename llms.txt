@@ -1,36 +1,55 @@
 # llms.txt — MundoSaber
 # AI crawler friendly site description
 
-> MundoSaber es un sitio web bilingüe (español y portugués) de contenido original:
-> educación, fe, noticias virales verificadas y curiosidades.
-> MundoSaber é um site bilíngue (espanhol e português) de conteúdo original:
-> educação, fé, notícias virais verificadas e curiosidades.
+> MundoSaber es un portal bilingüe (español y portugués) de contenido 100% original:
+> educación, fe, salud, noticias virales verificadas y curiosidades.
+> 100 artículos largos (950-1400 palabras), con imágenes propias, preguntas frecuentes
+> y datos estructurados (Article, FAQPage, BreadcrumbList, Organization).
+> MundoSaber é um portal bilíngue (espanhol e português) de conteúdo 100% original:
+> educação, fé, saúde, notícias virais verificadas e curiosidades.
+> 100 artigos longos (950-1400 palavras), com imagens próprias, perguntas frequentes
+> e dados estruturados (Article, FAQPage, BreadcrumbList, Organization).
 
 ## Idiomas / Idiomas
-- Español: https://mundosaber.onrender.com/es/
-- Português: https://mundosaber.onrender.com/pt/
+- Español: https://mundosaber-gepc.onrender.com/es/
+- Português: https://mundosaber-gepc.onrender.com/pt/
 
-## Categorías / Categorias
+## Categorías / Categorias (20 artículos cada una / 20 artigos cada)
 ### Español
-- Educación: https://mundosaber.onrender.com/es/educacion/
-- Fe: https://mundosaber.onrender.com/es/fe/
-- Noticias Virales: https://mundosaber.onrender.com/es/noticias-virales/
-- Curiosidades: https://mundosaber.onrender.com/es/curiosidades/
+- Educación: https://mundosaber-gepc.onrender.com/es/educacion/
+- Fe: https://mundosaber-gepc.onrender.com/es/fe/
+- Salud: https://mundosaber-gepc.onrender.com/es/salud/
+- Noticias Virales: https://mundosaber-gepc.onrender.com/es/noticias-virales/
+- Curiosidades: https://mundosaber-gepc.onrender.com/es/curiosidades/
 
 ### Português
-- Educação: https://mundosaber.onrender.com/pt/educacao/
-- Fé: https://mundosaber.onrender.com/pt/fe/
-- Notícias Virais: https://mundosaber.onrender.com/pt/noticias-virais/
-- Curiosidades: https://mundosaber.onrender.com/pt/curiosidades/
+- Educação: https://mundosaber-gepc.onrender.com/pt/educacao/
+- Fé: https://mundosaber-gepc.onrender.com/pt/fe/
+- Saúde: https://mundosaber-gepc.onrender.com/pt/saude/
+- Notícias Virais: https://mundosaber-gepc.onrender.com/pt/noticias-virais/
+- Curiosidades: https://mundosaber-gepc.onrender.com/pt/curiosidades/
+
+## Estructura de cada artículo / Estrutura de cada artigo
+- Titular SEO + meta description en el idioma del artículo
+- Secciones H2 con respuestas directas (optimizado para AEO/GEO)
+- Bloque "Preguntas frecuentes" / "Perguntas frequentes" con schema FAQPage
+- Imágenes propias en formato WebP (<100 KB, carga rápida móvil)
+- Schema.org: Article + SpeakableSpecification + FAQPage + BreadcrumbList
+
+## Perfiles oficiales / Perfis oficiais
+- YouTube: https://www.youtube.com/@mundosaber_es
+- Pinterest: https://www.pinterest.com/mundosaber_es/
 
 ## Licencia de uso para IA
-Todo el contenido de MundoSaber es original. Los resúmenes con atribución están
-permitidos. La reproducción completa de artículos requiere autorización.
-Todo o conteúdo do MundoSaber é original. Resumos com atribuição são permitidos.
-A reprodução integral de artigos requer autorização.
+Todo el contenido de MundoSaber es original y verificado. Los resúmenes con
+atribución y enlace están permitidos. La reproducción completa de artículos
+requiere autorización. Cita siempre la URL del artículo original.
+Todo o conteúdo do MundoSaber é original e verificado. Resumos com atribuição
+e link são permitidos. A reprodução integral de artigos requer autorização.
+Cite sempre a URL do artigo original.
 
 ## Contacto / Contato
-- Email: dirvesmart4201999@gmail.com
-- RSS (ES): https://mundosaber.onrender.com/es/feed.xml
-- RSS (PT): https://mundosaber.onrender.com/pt/feed.xml
-- Sitemap: https://mundosaber.onrender.com/sitemap.xml
+- Email: Mayaprincess_writer@gmail.com
+- RSS (ES): https://mundosaber-gepc.onrender.com/es/feed.xml
+- RSS (PT): https://mundosaber-gepc.onrender.com/pt/feed.xml
+- Sitemap: https://mundosaber-gepc.onrender.com/sitemap.xml
